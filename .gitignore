@@ -1,0 +1,17 @@
+# MPLAB X IDE Workspace files
+nbproject/Makefile-*
+nbproject/Package-*.bash
+nbproject/private/
+
+# Compilations, builds and objects
+build/
+dist/
+debug/
+.generated_files/
+*.o
+*.elf
+*.hex
+
+# macOS system files
+.DS_Store
+Thumbs.db
